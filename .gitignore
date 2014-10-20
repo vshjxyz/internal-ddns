@@ -1,3 +1,5 @@
 node_modules
 npm-debug.log
 iddns-daemon.log
+iddns-daemon.pid
+database.sqlite
