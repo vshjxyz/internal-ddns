@@ -40,10 +40,11 @@
   },
   "dependencies": {
     "commander": "^2.3.0",
-    "daemonize2": "^0.4.2",
     "ip": "^0.3.2",
+    "q": "^1.0.1",
     "sequelize": "^2.0.0-rc2",
     "sqlite3": "^3.0.2",
+    "ssh2": "^0.3.6",
     "winston": "^0.8.1"
   }
 }
