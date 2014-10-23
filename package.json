@@ -36,7 +36,7 @@
   "keywords": [],
   "preferGlobal": "true",
   "bin": {
-    "filesearch": "bin/internal-ddns.js"
+    "iddns": "bin/internal-ddns.js"
   },
   "dependencies": {
     "commander": "^2.3.0",
