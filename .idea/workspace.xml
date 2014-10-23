@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f001abe5-76cf-4ee7-8063-2b1f2ff106e3" name="Default" comment="" />
+    <list default="true" id="f001abe5-76cf-4ee7-8063-2b1f2ff106e3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/iddns.js" afterPath="$PROJECT_DIR$/lib/iddns.js" />
+    </list>
     <ignored path="internal-ddns.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="f001abe5-76cf-4ee7-8063-2b1f2ff106e3" time="1414056731493" ignored="false" />
-    <file path="/iddns.js" changelist="f001abe5-76cf-4ee7-8063-2b1f2ff106e3" time="1414062058863" ignored="false" />
+    <file path="/iddns.js" changelist="f001abe5-76cf-4ee7-8063-2b1f2ff106e3" time="1414072348597" ignored="false" />
     <file path="/storage.js" changelist="f001abe5-76cf-4ee7-8063-2b1f2ff106e3" time="1413820299047" ignored="false" />
     <file path="/internal-ddns.js" changelist="f001abe5-76cf-4ee7-8063-2b1f2ff106e3" time="1413995832515" ignored="false" />
     <file path="/.gitignore" changelist="f001abe5-76cf-4ee7-8063-2b1f2ff106e3" time="1413821121199" ignored="false" />
@@ -16,7 +18,7 @@
     <file path="/a.dummy" changelist="f001abe5-76cf-4ee7-8063-2b1f2ff106e3" time="1413988781614" ignored="false" />
     <file path="$PROJECT_DIR$/../find-and-watch/cms/fawcms.log" changelist="f001abe5-76cf-4ee7-8063-2b1f2ff106e3" time="1413989174183" ignored="false" />
     <file path="/ssh.js" changelist="f001abe5-76cf-4ee7-8063-2b1f2ff106e3" time="1413996609548" ignored="false" />
-    <file path="/fragment.js" changelist="f001abe5-76cf-4ee7-8063-2b1f2ff106e3" time="1414061903275" ignored="false" />
+    <file path="/fragment.js" changelist="f001abe5-76cf-4ee7-8063-2b1f2ff106e3" time="1414072320777" ignored="false" />
     <file path="$PROJECT_DIR$/../find-and-watch/cms/grails-app/controllers/com/sky/tv/cms/RouteController.groovy" changelist="f001abe5-76cf-4ee7-8063-2b1f2ff106e3" time="1414061720058" ignored="false" />
     <file path="$PROJECT_DIR$/../find-and-watch/cms/grails-app/conf/codenarc.properties" changelist="f001abe5-76cf-4ee7-8063-2b1f2ff106e3" time="1414061720058" ignored="false" />
     <file path="$PROJECT_DIR$/../find-and-watch/cms/test/functional/com/sky/tv/findandwatch/modules/SearchAsset.groovy" changelist="f001abe5-76cf-4ee7-8063-2b1f2ff106e3" time="1414061720058" ignored="false" />
@@ -52,8 +54,8 @@
         <option name="CONDITION_ENABLED" value="true" />
         <option name="CLASS_FILTERS_ENABLED" value="false" />
         <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
       </breakpoint>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -69,8 +71,8 @@
         <option name="CONDITION_ENABLED" value="true" />
         <option name="CLASS_FILTERS_ENABLED" value="false" />
         <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
@@ -113,10 +115,8 @@
       <file leaf-file-name="iddns.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/iddns.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="162" column="0" selection-start="3890" selection-end="3890" vertical-scroll-proportion="0.6756757">
-              <folding>
-                <element signature="e#4087#4130#0" expanded="false" />
-              </folding>
+            <state line="51" column="0" selection-start="1322" selection-end="1322" vertical-scroll-proportion="0.3323486">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -124,7 +124,7 @@
       <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="3" selection-start="1125" selection-end="1125" vertical-scroll-proportion="-26.857143">
+            <state line="47" column="3" selection-start="1120" selection-end="1120" vertical-scroll-proportion="-26.857143">
               <folding />
             </state>
           </provider>
@@ -354,7 +354,7 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="internal-ddns.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/bin/node" path-to-js-file="bin/internal-ddns.js" application-parameters="-e date" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="internal-ddns.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/bin/node" path-to-js-file="bin/internal-ddns.js" working-dir="$PROJECT_DIR$">
       <RunnerSettings RunnerId="NodeJS.debug" />
       <ConfigurationWrapper RunnerId="NodeJS.debug" />
       <method />
@@ -387,14 +387,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="1337" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32949877" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39934266" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39934266" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -471,7 +471,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="47" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="65" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -539,7 +542,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="3" selection-start="1125" selection-end="1125" vertical-scroll-proportion="-26.857143">
+        <state line="47" column="3" selection-start="1120" selection-end="1120" vertical-scroll-proportion="-26.857143">
           <folding />
         </state>
       </provider>
@@ -574,10 +577,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/iddns.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="162" column="0" selection-start="3890" selection-end="3890" vertical-scroll-proportion="0.6756757">
-          <folding>
-            <element signature="e#4087#4130#0" expanded="false" />
-          </folding>
+        <state line="51" column="0" selection-start="1322" selection-end="1322" vertical-scroll-proportion="0.3323486">
+          <folding />
         </state>
       </provider>
     </entry>
