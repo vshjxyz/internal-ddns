@@ -1,4 +1,4 @@
-# internal-ddns [![Build Status](https://secure.travis-ci.org/vagrant/internal-ddns.png?branch=master)](http://travis-ci.org/vagrant/internal-ddns)
+# internal-ddns [![Build Status](https://secure.travis-ci.org/vshjxyz/internal-ddns.png?branch=master)](http://travis-ci.org/vshjxyz/internal-ddns)
 
 Tool to manage a set of unix machines in a network.
 
