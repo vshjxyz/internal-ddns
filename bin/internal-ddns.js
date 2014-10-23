@@ -1,10 +1,10 @@
 #!/usr/bin/env node
 
 var program = require('commander')
-    ,iddns = require('../lib/iddns')
-    ,logger = require('../lib/logger')
-    ,storage = require('../lib/storage')
-    ;
+  , iddns = require('../lib/iddns')
+  , logger = require('../lib/logger')
+  , storage = require('../lib/storage')
+  ;
 
 program
     .version('0.1.0')
