@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f001abe5-76cf-4ee7-8063-2b1f2ff106e3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/iddns.js" afterPath="$PROJECT_DIR$/lib/iddns.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/internal-ddns.js" afterPath="$PROJECT_DIR$/bin/internal-ddns.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/internal-ddns_test.js" afterPath="$PROJECT_DIR$/test/internal-ddns_test.js" />
     </list>
     <ignored path="internal-ddns.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -116,7 +117,7 @@
       <file leaf-file-name="iddns.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/iddns.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="5" selection-start="2472" selection-end="2472" vertical-scroll-proportion="0.23295455">
+            <state line="98" column="0" selection-start="2550" selection-end="2550" vertical-scroll-proportion="0.23295455">
               <folding />
             </state>
           </provider>
@@ -583,7 +584,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/iddns.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="5" selection-start="2472" selection-end="2472" vertical-scroll-proportion="0.23295455">
+        <state line="98" column="0" selection-start="2550" selection-end="2550" vertical-scroll-proportion="0.23295455">
           <folding />
         </state>
       </provider>

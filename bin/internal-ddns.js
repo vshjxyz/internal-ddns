@@ -7,7 +7,7 @@ var program = require('commander')
   ;
 
 program
-    .version('0.1.0')
+    .version('0.1.3')
     .option('-l, --list', 'Lists the registered devices')
     .option('-e, --execute [command]', 'Executes the given command the registered devices')
     .parse(process.argv);

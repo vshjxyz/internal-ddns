@@ -1,6 +1,6 @@
 'use strict';
 
-var internal_ddns = require('../lib/internal-ddns.js');
+var internal_ddns = require('../bin/internal-ddns.js');
 
 /*
   ======== A Handy Little Nodeunit Reference ========
