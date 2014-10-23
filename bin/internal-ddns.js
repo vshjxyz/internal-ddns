@@ -9,15 +9,15 @@ var program = require('commander')
 program
     .version('0.1.0')
     .option('-l, --list', 'Lists the registered devices')
-    .option('-e, --exec [command]', 'Executes the given command the registered devices')
+    .option('-e, --execute [command]', 'Executes the given command the registered devices')
     .parse(process.argv);
 
 storage.db.sync().then(function() {
 
     if (program.list) {
       iddns.printList();
-    } else if (program.command) {
-      iddns.exec(program.command);
+    } else if (program.execute) {
+      iddns.execute(program.execute);
     } else {
       iddns.run();
     }
