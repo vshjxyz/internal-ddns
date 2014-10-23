@@ -1,6 +1,6 @@
 {
   "name": "internal-ddns",
-  "description": "Tool to manage a set of unix machines in a network.",
+  "description": "Manage a subset of unix machines in a network.",
   "version": "0.1.0",
   "homepage": "https://github.com/vshjxyz/internal-ddns",
   "author": {
@@ -20,7 +20,7 @@
       "url": "https://github.com/vshjxyz/internal-ddns/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "lib/internal-ddns",
+  "main": "bin/internal-ddns",
   "engines": {
     "node": ">= 0.8.0"
   },
@@ -36,7 +36,7 @@
   "keywords": [],
   "preferGlobal": "true",
   "bin": {
-    "filesearch": "lib/internal-ddns.js"
+    "filesearch": "bin/internal-ddns.js"
   },
   "dependencies": {
     "commander": "^2.3.0",

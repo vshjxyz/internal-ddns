@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f001abe5-76cf-4ee7-8063-2b1f2ff106e3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/iddns.js" afterPath="$PROJECT_DIR$/lib/iddns.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/internal-ddns.js" afterPath="$PROJECT_DIR$/bin/internal-ddns.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/storage.js" afterPath="$PROJECT_DIR$/lib/storage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="internal-ddns.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -128,7 +126,7 @@
       <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="3" selection-start="1130" selection-end="1130" vertical-scroll-proportion="-26.857143">
+            <state line="47" column="3" selection-start="1125" selection-end="1125" vertical-scroll-proportion="-26.857143">
               <folding />
             </state>
           </provider>
@@ -543,7 +541,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="3" selection-start="1130" selection-end="1130" vertical-scroll-proportion="-26.857143">
+        <state line="47" column="3" selection-start="1125" selection-end="1125" vertical-scroll-proportion="-26.857143">
           <folding />
         </state>
       </provider>
