@@ -3,3 +3,4 @@ npm-debug.log
 iddns-daemon.log
 iddns-daemon.pid
 database.sqlite
+.idea
