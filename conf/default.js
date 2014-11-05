@@ -8,4 +8,6 @@ module.exports = {
   }
   , LOGS: '/tmp/iddns-daemon.log'
   , DB: '/tmp/database.sqlite'
+  , DISCOVER_TIME: 10 * 1000
+  , CLEANUP_TIME: 120 * 1000
 }
