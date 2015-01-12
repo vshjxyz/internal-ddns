@@ -1,7 +1,7 @@
 {
   "name": "internal-ddns",
   "description": "Manage a subset of unix machines in a network.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "homepage": "https://github.com/vshjxyz/internal-ddns",
   "author": {
     "name": "Luca Del Bianco",
@@ -39,14 +39,16 @@
     "iddns": "bin/internal-ddns.js"
   },
   "dependencies": {
+    "colors": "~1.0.3",
     "commander": "^2.3.0",
+    "forever": "~0.11.1",
+    "inquirer": "^0.8.0",
     "ip": "^0.3.2",
+    "lodash": "^2.4.1",
     "q": "^1.0.1",
     "sequelize": "^2.0.0-rc2",
     "sqlite3": "^3.0.2",
     "ssh2": "^0.3.6",
-    "winston": "^0.8.1",
-    "colors": "~1.0.3",
-    "forever": "~0.11.1"
+    "winston": "^0.8.1"
   }
 }
