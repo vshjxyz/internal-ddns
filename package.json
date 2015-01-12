@@ -1,7 +1,7 @@
 {
   "name": "internal-ddns",
   "description": "Manage a subset of unix machines in a network.",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "homepage": "https://github.com/vshjxyz/internal-ddns",
   "author": {
     "name": "Luca Del Bianco",
